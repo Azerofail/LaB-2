@@ -265,12 +265,12 @@ public class Main {
         ```
 1.2. 
     
-  - **Input**:
+  - **Input**:    
         ```
         0 1
         ```
 
-  - **Output**:
+  - **Output**:     
         ```
     'Это не матрица'
         ```
